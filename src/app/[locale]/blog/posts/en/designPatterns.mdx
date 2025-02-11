@@ -1,0 +1,68 @@
+---
+title: "Exploring Design Patterns in My Development Journey"
+publishedAt: "2024-01-27"
+image: "/images/gallery/img-02.jpg"
+summary: "Design patterns have transformed the way I approach software architecture, improving the structure, scalability, and maintainability of my code."
+tag: "Development"
+---
+
+## A New Chapter in My Learning Journey
+
+Software development is a continuous learning process, filled with new concepts, challenges, and breakthroughs. Recently, I’ve been diving deep into **design patterns**, a topic that has significantly enhanced my understanding of software architecture and best practices.
+
+## Understanding the Power of Design Patterns
+
+Design patterns provide **proven solutions** to recurring software design problems, allowing developers to write **more scalable, maintainable, and efficient** code. Before studying them, I often found myself **repeating code, creating tightly coupled components, and struggling with long-term maintainability**. Learning these patterns has changed the way I **structure and organize my applications**.
+
+## Applying Patterns in My Work
+
+As a backend developer working with **Node.js and TypeScript**, I’ve been incorporating **creational design patterns**, such as:
+
+- **Singleton**: Managing a single instance of a resource across the application.
+- **Factory**: Creating objects dynamically while reducing dependencies.
+- **Builder**: Constructing complex objects step by step with better flexibility.
+
+<CodeBlock className="my-24"
+    compact
+    codeInstances={[
+        {
+            code: 'class Singleton {\n  private static instance: Singleton;\n  private constructor() {}\n  static getInstance() {\n    if (!Singleton.instance) {\n      Singleton.instance = new Singleton();\n    }\n    return Singleton.instance;\n  }\n}',
+            label: 'Singleton Pattern',
+            language: 'tsx'
+        },
+    ]}
+    copyButton
+/>
+
+These patterns have **improved my code structure**, making it **easier to scale and maintain**. They have also helped me **write cleaner, more reusable code**, reducing complexity in real-world applications.
+
+## Overcoming Challenges
+
+Understanding when and where to apply design patterns has been a learning curve. Initially, I found myself **overusing** them, trying to fit patterns into places where they weren’t needed. However, over time, I learned that **the key is knowing when a pattern adds real value** rather than using it just for the sake of it.
+
+## Key Takeaways from My Learning Experience
+
+- **Design patterns aren’t rules, they are guidelines** – They help structure code but should be used **when they solve a real problem**.
+- **Readability and maintainability matter** – A well-structured project makes onboarding new developers and debugging much easier.
+- **Practice is essential** – Learning about design patterns in theory is useful, but **implementing them in real-world scenarios is what makes the difference**.
+
+## What’s Next?
+
+With a solid foundation in **creational patterns**, I plan to **explore structural and behavioral design patterns**, applying them to my **backend architecture** and improving **code reusability and flexibility**.
+
+## Sharing the Knowledge
+
+I believe in **continuous learning and knowledge sharing**, so I’ll be documenting more about my experiences with design patterns, best practices, and real-world applications in my projects.
+
+If you’re also exploring **design patterns**, let’s connect and exchange insights! I’d love to hear how you’re applying them in your projects.
+
+## My GitHub Repository for Patterns
+
+You can check out my **Creational Patterns** implementations in TypeScript here:
+
+👉 [View on GitHub](https://github.com/itsmorais/Patterns/tree/main/src/creationalPatterns)
+
+👉 [Read the full post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7286027412834840577/)  
+
+
+---

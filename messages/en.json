@@ -1,79 +1,85 @@
 {
     "person": {
-        "role": "Design Engineer"
+        "role": "Software Developer"
     },
     "newsletter": {
-        "title": "Subscribe to {firstName}'s Newsletter",
-        "description": "I occasionally write about design, technology, and share thoughts on the intersection of creativity and engineering",
+        "title": "Subscribe to Michael's Newsletter",
+        "description": "I occasionally write about software development, technology, and share thoughts on best practices in backend engineering.",
         "button": "Sign up"
     },
     "home": {
         "label": "Home",
-        "title": "{name}'s Portfolio",
-        "description": "Portfolio website showcasing my work as a {role}",
-        "headline": "Design engineer and builder",
-        "subline": "I'm Selene, a design engineer at FLY, where I craft intuitive user experiences. After hours, I build my own projects."
+        "title": "Michael Morais's Portfolio",
+        "description": "Portfolio website showcasing my work as a Software Developer",
+        "headline": "Software Developer and Problem Solver",
+        "subline": "I'm Michael, a software developer at Embraer, where I build scalable and efficient systems. After hours, I work on personal projects and explore new technologies."
     },
     "about": {
         "label": "About",
         "title": "About me",
-        "description": "Meet {name}, {role} from {location}",
+        "description": "Meet Michael, Software Developer from São José dos Campos, Brazil",
         "intro": {
             "title": "Introduction",
-            "description": "Selene is a Jakarta-based design engineer with a passion for transforming complex challenges into simple, elegant design solutions. Her work spans digital interfaces, interactive experiences, and the convergence of design and technology."
+            "description": "Michael is a São José dos Campos-based software developer with a passion for writing clean, scalable, and efficient code. His expertise includes backend development, API design, and database management."
         },
         "work": {
             "title": "Work Experience",
             "experiences": {
-                "FLY": {
-                    "timeframe": "2022 - Present",
-                    "role": "Senior Design Engineer",
-                    "achievements": "Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.;Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster."
+                "Embraer": {
+                    "timeframe": "2023 - Present",
+                    "role": "Junior Software Developer",
+                    "achievements": "Developed and optimized internal software systems, improving performance and efficiency.;Worked on backend APIs to enhance data processing and system scalability."
                 },
-                "Creativ3": {
-                    "timeframe": "2018 - 2022",
-                    "role": "Lead Designer",
-                    "achievements": "Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.;Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue."
+                "Freelance & Personal Projects": {
+                    "timeframe": "2021 - Present",
+                    "role": "Software Developer",
+                    "achievements": "Built ProFit, a workout tracking platform with role-based authentication.;Developed various personal projects using Node.js, TypeScript, and PostgreSQL."
                 }
             }
         },
         "studies": {
             "title": "Studies",
             "institutions": {
-                "University of Jakarta": {
-                    "description": "Studied software engineering."
+                "Universidade Paulista (UNIP)": {
+                    "description": "Studying Computer Science, expected graduation in 2025."
                 },
-                "Build the Future": {
-                    "description": "Studied online marketing and personal branding."
+                "FATEC Jacareí": {
+                    "description": "Studied software engineering principles in a collaborative learning environment."
                 }
             }
         },
         "technical": {
             "title": "Technical skills",
             "skills": {
-                "Figma": {
-                    "description": "Able to prototype in Figma with Once UI with unnatural speed."
+                "Node.js & TypeScript": {
+                    "description": "Building robust and scalable backend services with Node.js, TypeScript, and Express."
                 },
-                "Nextjs": {
-                    "description": "Building next gen apps with Next.js + Once UI + Supabase."
+                "React & Next.js": {
+                    "description": "Creating interactive and performant web applications using modern frontend frameworks."
+                },
+                "PostgreSQL & Prisma": {
+                    "description": "Designing and managing relational databases with PostgreSQL and Prisma ORM."
+                },
+                "Software Architecture & Design Patterns": {
+                    "description": "Applying design patterns such as Factory, Singleton, and Use-Case to improve code maintainability."
                 }
             }
         }
     },
     "blog": {
         "label": "Blog",
-        "title": "Writing about design and tech...",
-        "description": "Read what {name} has been up to recently"
+        "title": "Writing about software development...",
+        "description": "Read what Michael has been up to recently"
     },
     "work": {
         "label": "Work",
         "title": "My projects",
-        "description": "Design and dev projects by {name}"
+        "description": "Software development projects by Michael Morais"
     },
     "gallery": {
         "label": "Gallery",
         "title": "My photo gallery",
-        "description": "A photo collection by {name}"
+        "description": "A photo collection by Michael Morais"
     },
     "projectCard": {
         "label": "Read Case Study"

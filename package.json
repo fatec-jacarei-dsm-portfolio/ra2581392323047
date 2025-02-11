@@ -1,5 +1,5 @@
 {
-	"name": "@once-ui-system/magic-portfolio",
+	"name": "mike-Portfolio-uni",
 	"version": "0.2.0",
 	"scripts": {
 		"dev": "next dev",

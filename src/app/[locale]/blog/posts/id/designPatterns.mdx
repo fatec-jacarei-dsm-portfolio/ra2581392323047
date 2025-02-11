@@ -1,0 +1,67 @@
+---
+title: "Explorando Padrões de Projeto na Minha Jornada de Desenvolvimento"
+publishedAt: "2024-01-27"
+image: "/images/gallery/img-02.jpg"
+summary: "Os padrões de projeto transformaram a maneira como abordo a arquitetura de software, melhorando a estrutura, escalabilidade e manutenção do meu código."
+tag: "Desenvolvimento"
+---
+
+## Um Novo Capítulo na Minha Jornada de Aprendizado
+
+O desenvolvimento de software é um processo de aprendizado contínuo, repleto de novos conceitos, desafios e descobertas. Recentemente, tenho me aprofundado em **padrões de projeto**, um tema que aprimorou significativamente minha compreensão sobre arquitetura de software e boas práticas.
+
+## Compreendendo o Poder dos Padrões de Projeto
+
+Os padrões de projeto fornecem **soluções comprovadas** para problemas recorrentes no design de software, permitindo que os desenvolvedores escrevam códigos **mais escaláveis, fáceis de manter e eficientes**. Antes de estudá-los, frequentemente me via **repetindo código, criando componentes fortemente acoplados e enfrentando dificuldades na manutenção a longo prazo**. Aprender esses padrões mudou a forma como **estruturo e organizo minhas aplicações**.
+
+## Aplicando Padrões no Meu Trabalho
+
+Como desenvolvedor backend que trabalha com **Node.js e TypeScript**, venho incorporando **padrões de criação**, como:
+
+- **Singleton**: Gerencia uma única instância de um recurso em toda a aplicação.
+- **Factory**: Cria objetos dinamicamente enquanto reduz dependências.
+- **Builder**: Constrói objetos complexos passo a passo com maior flexibilidade.
+
+<CodeBlock className="my-24"
+    compact
+    codeInstances={[
+        {
+            code: 'class Singleton {\n  private static instance: Singleton;\n  private constructor() {}\n  static getInstance() {\n    if (!Singleton.instance) {\n      Singleton.instance = new Singleton();\n    }\n    return Singleton.instance;\n  }\n}',
+            label: 'Padrão Singleton',
+            language: 'tsx'
+        },
+    ]}
+    copyButton
+/>
+
+Esses padrões **melhoraram a estrutura do meu código**, tornando-o **mais fácil de escalar e manter**. Além disso, ajudaram-me a **escrever código mais limpo e reutilizável**, reduzindo a complexidade em aplicações reais.
+
+## Superando Desafios
+
+Entender **quando e onde aplicar padrões de projeto** foi um desafio. No início, me peguei **usando padrões em excesso**, tentando encaixá-los em lugares onde não eram necessários. Com o tempo, aprendi que **o segredo é saber quando um padrão agrega valor real**, em vez de usá-lo apenas por conveniência.
+
+## Principais Lições do Meu Aprendizado
+
+- **Padrões de projeto não são regras, são diretrizes** – Eles ajudam a estruturar o código, mas devem ser usados **apenas quando resolvem um problema real**.
+- **Legibilidade e manutenção são essenciais** – Um projeto bem estruturado facilita a entrada de novos desenvolvedores e a depuração do código.
+- **A prática é essencial** – Aprender sobre padrões de projeto na teoria é útil, mas **implementá-los em cenários reais é o que realmente faz a diferença**.
+
+## O Que Vem a Seguir?
+
+Com uma base sólida em **padrões de criação**, meu próximo passo é **explorar padrões estruturais e comportamentais**, aplicando-os à minha **arquitetura backend** para melhorar **reutilização e flexibilidade do código**.
+
+## Compartilhando o Conhecimento
+
+Acredito no **aprendizado contínuo e na troca de conhecimento**, por isso continuarei documentando minhas experiências com padrões de projeto, boas práticas e aplicações reais em meus projetos.
+
+Se você também está explorando **padrões de projeto**, vamos nos conectar e trocar experiências! Adoraria saber como você os aplica nos seus projetos.
+
+## Meu Repositório no GitHub sobre Padrões de Projeto
+
+Confira minhas implementações de **Padrões de Criação** em TypeScript no GitHub:
+
+👉 [Ver no GitHub](https://github.com/itsmorais/Patterns/tree/main/src/creationalPatterns)
+
+👉 [Leia o post completo no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7286027412834840577/)  
+
+---
