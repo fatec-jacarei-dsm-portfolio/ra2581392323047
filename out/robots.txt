@@ -1,0 +1,3 @@
+User-Agent: *
+
+Sitemap: demo.magic-portfolio.com/sitemap.xml
