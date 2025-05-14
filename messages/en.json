@@ -1,87 +1,100 @@
 {
     "person": {
-        "role": "Software Developer"
+      "role": "Software Developer"
     },
     "newsletter": {
-        "title": "Subscribe to Michael's Newsletter",
-        "description": "I occasionally write about software development, technology, and share thoughts on best practices in backend engineering.",
-        "button": "Sign up"
+      "title": "Join my newsletter",
+      "description": "Every now and then, I share stories and insights about software development, tech trends, and what I'm learning along the way.",
+      "button": "Subscribe"
     },
     "home": {
-        "label": "Home",
-        "title": "Michael Morais's Portfolio",
-        "description": "Portfolio website showcasing my work as a Software Developer",
-        "headline": "Software Developer and Problem Solver",
-        "subline": "I'm Michael, a software developer at Embraer, where I build scalable and efficient systems. After hours, I work on personal projects and explore new technologies."
+      "label": "Home",
+      "title": "Michael Morais | Software Developer",
+      "description": "My personal site featuring projects, experience, and what I’ve been working on.",
+      "headline": "Michael Morais Portfolio",
+      "subline": "Hey! I'm a full stack developer at Embraer, focused on building clean, scalable, and impactful solutions."
+    },
+    "languages": {
+      "english": "English",
+      "portuguese": "Portuguese",
+      "french": "French"
     },
     "about": {
-        "label": "About",
-        "title": "About me",
-        "description": "Meet Michael, Software Developer from São José dos Campos, Brazil",
-        "intro": {
-            "title": "Introduction",
-            "description": "Michael is a São José dos Campos-based software developer with a passion for writing clean, scalable, and efficient code. His expertise includes backend development, API design, and database management."
-        },
-        "work": {
-            "title": "Work Experience",
-            "experiences": {
-                "Embraer": {
-                    "timeframe": "2023 - Present",
-                    "role": "Junior Software Developer",
-                    "achievements": "Developed and optimized internal software systems, improving performance and efficiency.;Worked on backend APIs to enhance data processing and system scalability."
-                },
-                "Freelance & Personal Projects": {
-                    "timeframe": "2021 - Present",
-                    "role": "Software Developer",
-                    "achievements": "Built ProFit, a workout tracking platform with role-based authentication.;Developed various personal projects using Node.js, TypeScript, and PostgreSQL."
-                }
+      "label": "About",
+      "title": "About Me",
+      "description": "I'm Michael, a software developer based in São José dos Campos, Brazil.",
+      "intro": {
+        "title": "Intro",
+        "description": "Hey there! I’m Michael — a software developer and a student of Multiplatform Software Development. Before getting into tech, I spent 5 years working in the aviation industry, where I built a strong foundation in critical thinking, teamwork, and problem-solving. I officially started my journey in software in 2023, and since then, I’ve been focused on building web solutions that are fast, scalable, and add real value to businesses. I’m always learning, always improving, and always looking for better ways to solve problems through code."
+      },
+      "work": {
+        "title": "Work Experience",
+        "experiences": {
+          "embraer": {
+            "role": "Full Stack Developer",
+            "achievements": {
+              "1": "Built a scheduling system for the aerospace division that was ranked among the top 10 intern projects across the company.",
+              "2": "Created ETL and data analysis tools that helped improve resource planning and decision-making.",
+              "3": "Led modernization efforts on internal systems to improve backend performance and user experience."
             }
-        },
-        "studies": {
-            "title": "Studies",
-            "institutions": {
-                "Universidade Paulista (UNIP)": {
-                    "description": "Studying Computer Science, expected graduation in 2025."
-                },
-                "FATEC Jacareí": {
-                    "description": "Studied software engineering principles in a collaborative learning environment."
-                }
+          },
+          "nexus": {
+            "role": "Software Developer",
+            "achievements": {
+              "1": "Migrated a legacy .NET system to Next.js, cutting file generation time from 2 minutes to just 1 second.",
+              "2": "Built a real-time data processing server using Node.js, RabbitMQ, and PostgreSQL for IoT devices.",
+              "3": "Developed a modern dashboard in React/Next.js to visualize and analyze IoT data."
             }
-        },
-        "technical": {
-            "title": "Technical skills",
-            "skills": {
-                "Node.js & TypeScript": {
-                    "description": "Building robust and scalable backend services with Node.js, TypeScript, and Express."
-                },
-                "React & Next.js": {
-                    "description": "Creating interactive and performant web applications using modern frontend frameworks."
-                },
-                "PostgreSQL & Prisma": {
-                    "description": "Designing and managing relational databases with PostgreSQL and Prisma ORM."
-                },
-                "Software Architecture & Design Patterns": {
-                    "description": "Applying design patterns such as Factory, Singleton, and Use-Case to improve code maintainability."
-                }
-            }
+          }
         }
+      },
+      "studies": {
+        "title": "Education",
+        "institutions": {
+          "fatec": {
+            "description": "I'm currently studying Multiplatform Software Development at FATEC Jacareí and expect to graduate in December 2025."
+          },
+          "utfpr": {
+            "description": "I studied Systems Analysis and Development at UTFPR between 2021 and 2022."
+          },
+          "dublin": {
+            "description": "I spent a year in Dublin, Ireland studying English and earned a B2 level certificate."
+          }
+        }
+      },
+      "technical": {
+        "title": "Tech Skills",
+        "skills": {
+          "node": {
+            "description": "I build backend applications with Node.js and TypeScript, following clean architecture and best practices."
+          },
+          "react": {
+            "description": "I design responsive and scalable user interfaces with React and Next.js, always focusing on performance and UX."
+          },
+          "postgresql": {
+            "description": "I work with PostgreSQL and Prisma ORM to manage data reliably and efficiently in relational databases."
+          }
+        }
+      }
     },
     "blog": {
-        "label": "Blog",
-        "title": "Writing about software development...",
-        "description": "Read what Michael has been up to recently"
+      "label": "Blog",
+      "title": "Thoughts on dev, career, and tech",
+      "description": "Here’s what I’ve been thinking and writing about lately."
     },
     "work": {
-        "label": "Work",
-        "title": "My projects",
-        "description": "Software development projects by Michael Morais"
+      "label": "Projects",
+      "title": "My Projects",
+      "description": "Some of the things I’ve built — all focused on solving real problems with thoughtful, high-quality code."
+  
     },
+    "projectCard":{
+        "label":"Read more"
+      },
     "gallery": {
-        "label": "Gallery",
-        "title": "My photo gallery",
-        "description": "A photo collection by Michael Morais"
-    },
-    "projectCard": {
-        "label": "Read More..."
+      "label": "Gallery",
+      "title": "Photo Gallery",
+      "description": "A collection of snapshots from moments that inspire me — on and off the screen."
     }
-}
+  }
+  

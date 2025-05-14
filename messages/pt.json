@@ -1,0 +1,98 @@
+{
+    "person": {
+        "role": "Desenvolvedor de Software"
+    },
+    "newsletter": {
+        "title": "Inscreva-se na minha newsletter",
+        "description": "De tempos em tempos, compartilho aprendizados sobre desenvolvimento de software, tecnologia e minha jornada profissional.",
+        "button": "Sign up"
+    },
+    "home": {
+        "label": "Home",
+        "title": "Michael Morais's Portfolio",
+        "description": "Meu portfólio como Desenvolvedor de software, com projetos, experiências e aprendizados.",
+        "headline": "Michael Morais Portfolio",
+        "subline": "Olá, Sou desenvolvedor de software full stack na Embraer, focado em criar soluções eficientes e bem estruturadas."
+    },
+    "languages": {
+        "english": "Inglês",
+        "portuguese": "Português",
+        "french": "Francês"
+    },
+    "about": {
+        "label": "Sobre",
+        "title": "Sobre mim",
+        "description": "Conheça mais sobre mim: Michael, Desenvolvedor de software em São José dos campos.",
+        "intro": {
+            "title": "Introdução",
+            "description": "Olá! Sou o Michael, desenvolvedor de software e estudante de Desenvolvimento de Software Multiplataforma. Antes da minha transição para a tecnologia, atuei por 5 anos em diversos setores da aviação, onde desenvolvi habilidades como pensamento crítico, proatividade e boa comunicação. Desde 2023, venho me dedicando ao desenvolvimento de sistemas web com foco em escalabilidade, performance e impacto no negócio. Sou apaixonado por aprender e transformar conhecimento em soluções práticas."
+        },
+        "work": {
+            "title": "Experiência Profissional",
+            "experiences": {
+                "embraer": {
+                    "role": "Desenvolvedor Full Stack",
+                    "achievements": {
+                        "1": "Desenvolvi um sistema de agendamento para o setor aeroespacial, reconhecido entre os 10 melhores projetos de estágio da empresa.",
+                        "2": "Implementei ferramentas de análise de dados e ETL que melhoraram o planejamento logístico e a tomada de decisão.",
+                        "3": "Modernizei sistemas internos, otimizando a experiência do usuário e a eficiência do backend."
+                    }
+                },
+                "nexus": {
+                    "role": "Desenvolvedor de Software",
+                    "achievements": {
+                        "1": "Migrei um sistema legado em .NET para Next.js, reduzindo o tempo de geração de arquivos de 2 minutos para 1 segundo.",
+                        "2": "Desenvolvi um servidor de processamento de dados em tempo real com Node.js, integrando RabbitMQ e PostgreSQL.",
+                        "3": "Criei um dashboard em React/Next.js para visualização e análise de dados IoT."
+                    }
+                }
+            }
+        },
+        "studies": {
+            "title": "Formação",
+            "institutions": {
+                "fatec": {
+                    "description": "Curso Desenvolvimento de Software Multiplataforma na FATEC Jacareí, com previsão de conclusão em dezembro de 2025."
+                },
+                "utfpr": {
+                    "description": "Cursei Análise e Desenvolvimento de Sistemas na UTFPR entre 2021 e 2022."
+                },
+                "dublin": {
+                    "description": "Estudei inglês durante um ano em Dublin, Irlanda, e obtive certificação de nível B2."
+                }
+            }
+        },
+        "technical": {
+            "title": "Habilidades Técnicas",
+            "skills": {
+                "node": {
+                    "description": "Desenvolvo aplicações backend com Node.js e TypeScript, seguindo arquitetura MVC e boas práticas."
+                },
+                "react": {
+                    "description": "Crio interfaces modernas e escaláveis usando React e Next.js, com foco em usabilidade e performance."
+                },
+                "postgresql": {
+                    "description": "Trabalho com bancos relacionais, usando PostgreSQL e Prisma ORM para garantir consistência e eficiência nos dados."
+                }
+            }
+        }
+    },
+    "blog": {
+        "label": "Blog",
+        "title": "Reflexões sobre desenvolvimento, carreira e tecnologia...",
+        "description": "Acompanhe os temas que venho explorando recentemente."
+    },
+    "work": {
+        "label": "Projetos",
+        "title": "Meus projetos",
+        "description": "Aqui estão alguns projetos que desenvolvi com foco em performance e valor de negócio."
+    },
+    "gallery": {
+        "label": "Galeria",
+        "title": "Minha galeria de fotos",
+        "description": "Uma seleção de momentos e imagens capturados ao longo da minha jornada."
+    },
+    "projectCard":{
+        "label":"Saiba mais"
+      }
+}
