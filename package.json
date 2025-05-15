@@ -6,7 +6,9 @@
 		"export": "npx serve out",
 		"build": "next build",
 		"start": "next start",
-		"lint": "next lint"
+		"lint": "next lint",
+		  "deploy": "gh-pages -d out"
+
 	},
 	"dependencies": {
 		"@floating-ui/react-dom": "^2.1.1",
@@ -37,6 +39,7 @@
 		"@types/react": "^18",
 		"@types/react-dom": "^18",
 		"eslint": "^9.20.0",
+		"gh-pages": "^6.3.0",
 		"postcss-custom-media": "^10.0.7",
 		"postcss-flexbugs-fixes": "^5.0.2",
 		"typescript": "^5"

@@ -10,9 +10,14 @@ const withNextIntl = createNextIntlPlugin();
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    pageExtensions: ['ts', 'tsx', 'md', 'mdx'],
-    output: 'export'
+  output: 'export',
+  basePath: '/next-portfolio',
+  assetPrefix: '/next-portfolio',
+  images: {
+    loader: 'default',
+    path: '/next-portfolio/',
+  }
+}
 
-};
 
 export default withNextIntl(withMDX(nextConfig));

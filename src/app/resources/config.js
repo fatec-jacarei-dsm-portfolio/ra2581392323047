@@ -1,4 +1,4 @@
-const baseURL = 'https://itsmorais.github.io/next-portfolio'
+const baseURL = 'itsmorais.github.io'
 
 // Enable localization
 const i18n = true;
