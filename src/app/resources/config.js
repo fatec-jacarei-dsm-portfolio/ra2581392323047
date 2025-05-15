@@ -1,4 +1,4 @@
-const baseURL = 'michael-fawn.vercel.app'
+const baseURL = 'https://itsmorais.github.io/next-portfolio'
 
 // Enable localization
 const i18n = true;
