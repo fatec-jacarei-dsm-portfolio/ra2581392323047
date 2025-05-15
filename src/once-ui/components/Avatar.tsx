@@ -78,7 +78,6 @@ const Avatar: React.FC<AvatarProps> = forwardRef<HTMLDivElement, AvatarProps>(({
                 <SmartImage
                     radius="full"
                     src={src}
-                    fill
                     alt="Avatar"
                     sizes={`${sizeMapping[size]}px`}
                     className={styles.image}/>

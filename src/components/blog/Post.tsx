@@ -29,7 +29,6 @@ export default function Post({ post, thumbnail }: PostProps) {
                         maxWidth={20} fillWidth
                         className={styles.image}>
                         <SmartImage
-                            priority
                             sizes="640px"
                             style={{
                                 cursor: 'pointer',

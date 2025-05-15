@@ -75,7 +75,6 @@ const Carousel: React.FC<CarouselProps> = ({
                     speed="fast">
                     <SmartImage
                         sizes={sizes}
-                        priority
                         tabIndex={0}
                         radius="l"
                         alt={images[activeIndex]?.alt}

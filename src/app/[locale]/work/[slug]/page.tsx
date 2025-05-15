@@ -137,10 +137,17 @@ export default function Project({ params }: WorkParams) {
 			</Flex>
 			{post.metadata.images.length > 0 && (
 				<SmartImage
-					aspectRatio="16 / 9"
-					radius="m"
-					alt="image"
-					src={post.metadata.images[0]}/>
+				sizes="640px"
+				style={{
+					cursor: 'pointer',
+					border: '1px solid var(--neutral-alpha-weak)'
+				}}
+				radius="m"
+				src={post.metadata.images[0]}
+				alt={'Thumbnail of ' + post.metadata.title}
+				aspectRatio="16 / 9"
+			/>
+			
 			)}
 			<Flex style={{margin: 'auto'}}
 				as="article"
