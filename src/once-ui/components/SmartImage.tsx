@@ -26,10 +26,14 @@ const SmartImage: React.FC<SmartImageProps> = ({
     objectFit = 'cover',
     enlarge = false,
     src,
-    ...props // This ensures tabIndex and other img attributes are passed down
+    ...props
 }) => {
     const [isEnlarged, setIsEnlarged] = useState(false);
     const imageRef = useRef<HTMLDivElement>(null);
+
+    // ✅ Ensure correct image paths on GitHub Pages
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "/next-portfolio";
+    const formattedSrc = src.startsWith("http") ? src : `${basePath}${src}`;
 
     const handleClick = () => {
         if (enlarge) {
@@ -85,8 +89,8 @@ const SmartImage: React.FC<SmartImageProps> = ({
 
                 {!isLoading && (
                     <img
-                        {...props} // ✅ Allows tabIndex, alt, style, etc.
-                        src={src}
+                        {...props}
+                        src={formattedSrc} // ✅ Uses the corrected path
                         style={{
                             width: '100%',
                             height: '100%',

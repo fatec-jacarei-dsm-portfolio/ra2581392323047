@@ -7,9 +7,10 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "next lint",
-		  "deploy": "gh-pages -d out"
-
+		"deploy": "gh-pages -d out"
 	},
+	"homepage": "https://itsmorais.github.io/next-portfolio",
+
 	"dependencies": {
 		"@floating-ui/react-dom": "^2.1.1",
 		"@mdx-js/loader": "^3.1.0",

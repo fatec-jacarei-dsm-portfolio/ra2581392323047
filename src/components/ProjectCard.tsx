@@ -3,6 +3,7 @@
 import { AvatarGroup, Flex, Heading, RevealFx, SmartImage, SmartLink, Text } from "@/once-ui/components";
 import { useEffect, useState } from "react";
 import { useTranslations } from 'next-intl';
+import { usePathname } from "next/navigation";
 
 interface ProjectCardProps {
     href: string;
@@ -12,6 +13,19 @@ interface ProjectCardProps {
     description: string;
     avatars: { src: string }[];
 }
+
+
+function buildHref(href: string) {
+    const pathname = usePathname() ?? "";
+    const locale = pathname.split("/")[1] || "en";
+  
+    const sanitizedHref = href.replace(/^\/+|\/+$/g, "");
+  
+    return `/${locale}/${sanitizedHref}`;
+  }
+  
+  
+
 
 export const ProjectCard: React.FC<ProjectCardProps> = ({
     href,
@@ -23,6 +37,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
 }) => {
     const [activeIndex, setActiveIndex] = useState(0);
     const [isTransitioning, setIsTransitioning] = useState(false);
+    const fixedHref = buildHref(href);
 
     const t = useTranslations();
 
@@ -135,7 +150,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
                             <SmartLink
                                 suffixIcon="chevronRight"
                                 style={{margin: '0', width: 'fit-content'}}
-                                href={href}>
+                                href={`${fixedHref}`}>
                                     <Text
                                         variant="body-default-s">
                                        {t("projectCard.label")}

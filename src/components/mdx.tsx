@@ -1,5 +1,6 @@
 import { MDXRemote, MDXRemoteProps } from 'next-mdx-remote/rsc';
 import React, { ReactNode } from 'react';
+import getConfig from 'next/config';
 
 import { SmartImage, SmartLink, Text } from '@/once-ui/components';
 import { CodeBlock } from '@/once-ui/modules';
@@ -62,11 +63,19 @@ function CustomLink({ href, children, ...props }: CustomLinkProps) {
     );
 }
 
+
+const { publicRuntimeConfig } = getConfig();
+const basePath = publicRuntimeConfig?.basePath || '';
+
 function createImage({ alt, src, ...props }: SmartImageProps & { src: string }) {
     if (!src) {
         console.error("SmartImage requires a valid 'src' property.");
         return null;
     }
+
+    // ✅ Ensure correct path for GitHub Pages
+    const adjustedSrc = src.startsWith('http') ? src : `${basePath}${src}`;
+
 
     return (
         <SmartImage
@@ -75,7 +84,7 @@ function createImage({ alt, src, ...props }: SmartImageProps & { src: string }) 
             radius="m"
             aspectRatio="16 / 9"
             alt={alt}
-            src={src}
+            src={adjustedSrc}
             {...props}/>
         )
 }
