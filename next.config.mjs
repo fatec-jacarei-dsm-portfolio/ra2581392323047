@@ -41,5 +41,4 @@ const nextConfig = {
   },
 };
 
-// ✅ Apply Next.js plugins AFTER adding redirects
 export default withNextIntl(withMDX(nextConfig));

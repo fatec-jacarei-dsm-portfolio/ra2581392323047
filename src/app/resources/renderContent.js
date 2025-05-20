@@ -3,20 +3,21 @@ import { createI18nContent } from './content-i18n';
 import { i18n } from './config';
 
 const renderContent = (t) => {
-    if ( i18n ) {
+    if (i18n && typeof t === 'function') {
         return createI18nContent(t);
-    } else {
-        return {
-            person,
-            social,
-            newsletter,
-            home,
-            about,
-            blog,
-            work,
-            gallery
-        }
     }
+
+    // Fallback to static content
+    return {
+        person,
+        social,
+        newsletter,
+        home,
+        about,
+        blog,
+        work,
+        gallery
+    };
 };
 
 export { renderContent };
