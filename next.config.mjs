@@ -11,10 +11,10 @@ const withNextIntl = createNextIntlPlugin();
 /** @type {import('next').NextConfig} */
 const nextConfig = {
       // ✅ Set basePath for GitHub Pages
-      basePath: "/next-portfolio",
+      basePath: "/ra2581392323047",
 
       // ✅ Ensure asset paths are prefixed correctly
-      assetPrefix: "/next-portfolio",
+      assetPrefix: "/ra2581392323047",
   trailingSlash: true,
   output: 'export',
   pageExtensions: ['ts', 'tsx', 'md', 'mdx'],

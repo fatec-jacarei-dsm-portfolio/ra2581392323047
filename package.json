@@ -9,7 +9,7 @@
 		"lint": "next lint",
 		"deploy": "gh-pages -d out"
 	},
-	"homepage": "https://itsmorais.github.io/next-portfolio",
+	"homepage": "https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323047",
 
 	"dependencies": {
 		"@floating-ui/react-dom": "^2.1.1",

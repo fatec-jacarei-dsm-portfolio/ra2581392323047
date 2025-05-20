@@ -32,7 +32,7 @@ const SmartImage: React.FC<SmartImageProps> = ({
     const imageRef = useRef<HTMLDivElement>(null);
 
     // ✅ Ensure correct image paths on GitHub Pages
-    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "/next-portfolio";
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "/ra2581392323047";
     const formattedSrc = src.startsWith("http") ? src : `${basePath}${src}`;
 
     const handleClick = () => {

@@ -1,4 +1,4 @@
-const baseURL = 'itsmorais.github.io'
+const baseURL = 'fatec-jacarei-dsm-portfolio.github.io'
 
 // Enable localization
 const i18n = true;
