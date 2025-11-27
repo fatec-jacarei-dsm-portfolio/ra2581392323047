@@ -1,3 +1,0 @@
-User-Agent: *
-
-Sitemap: fatec-jacarei-dsm-portfolio.github.io/sitemap.xml
