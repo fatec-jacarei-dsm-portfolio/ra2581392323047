@@ -1,10 +1,10 @@
 3:I[4707,[],""]
 5:I[6423,[],""]
 4:["locale","en","d"]
-0:["Qh5APht9xK-6HgAeKn28K",[[["",{"children":[["locale","en","d"],{"children":["work",{"children":["__PAGE__?{\"locale\":\"en\"}",{}]}]},"$undefined","$undefined",true]}],["",{"children":[["locale","en","d"],{"children":["work",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","work","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ra2581392323047/_next/static/css/138514237ce9fc6f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/ra2581392323047/_next/static/css/d07ef7afeef812f5.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/ra2581392323047/_next/static/css/b871c76e15eddde1.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/ra2581392323047/_next/static/css/b8b89a853807f2bc.css","precedence":"next","crossOrigin":"$undefined"}]],"$L6"],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]],null],["$L7",null]]]]
+0:["2JSgWdtSEAgHOyhLeeC9t",[[["",{"children":[["locale","en","d"],{"children":["work",{"children":["__PAGE__?{\"locale\":\"en\"}",{}]}]},"$undefined","$undefined",true]}],["",{"children":[["locale","en","d"],{"children":["work",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","work","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/ra2581392323047/_next/static/css/138514237ce9fc6f.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/ra2581392323047/_next/static/css/d07ef7afeef812f5.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/ra2581392323047/_next/static/css/b871c76e15eddde1.css","precedence":"next","crossOrigin":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/ra2581392323047/_next/static/css/b8b89a853807f2bc.css","precedence":"next","crossOrigin":"$undefined"}]],"$L6"],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]],null],["$L7",null]]]]
 8:I[1162,["665","static/chunks/f97e080b-82142bce571282c5.js","240","static/chunks/53c13509-59dce8ec7d519f72.js","516","static/chunks/f7333993-4a400b1b7e3f0714.js","575","static/chunks/575-36afa6b918503cc1.js","827","static/chunks/827-e9f729e5320d747e.js","187","static/chunks/187-6922ef9382e38734.js","303","static/chunks/303-bfb6db1152a109ea.js","540","static/chunks/app/%5Blocale%5D/work/page-facec01479b36cac.js"],"Flex"]
 a:I[9818,["665","static/chunks/f97e080b-82142bce571282c5.js","240","static/chunks/53c13509-59dce8ec7d519f72.js","516","static/chunks/f7333993-4a400b1b7e3f0714.js","575","static/chunks/575-36afa6b918503cc1.js","827","static/chunks/827-e9f729e5320d747e.js","187","static/chunks/187-6922ef9382e38734.js","303","static/chunks/303-bfb6db1152a109ea.js","540","static/chunks/app/%5Blocale%5D/work/page-facec01479b36cac.js"],"ProjectCard"]
-9:T76e,{"@context":"https://schema.org","@type":"CollectionPage","headline":"My Projects","description":"Some of the things I’ve built — all focused on solving real problems with thoughtful, high-quality code.","url":"https://itsmorais.github.io/projects","image":"itsmorais.github.io/og?title=Design%20Projects","author":{"@type":"Person","name":"Michael Morais"},"hasPart":[{"@type":"CreativeWork","headline":"Bikes4you","description":"A peer-to-peer web application that connects bicycle owners with renters, acting solely as an intermediary without handling payments.","url":"https://itsmorais.github.io/projects/bike4you","image":"itsmorais.github.io/"},{"@type":"CreativeWork","headline":"D-Care","description":"A complete platform that connects elderly individuals and families to qualified caregivers, with professional validation, scheduling, AI-assisted support, and strong privacy standards.","url":"https://itsmorais.github.io/projects/dcare","image":"itsmorais.github.io/"},{"@type":"CreativeWork","headline":"D-FireTrack","description":"A complete solution for the automatic mapping of burn scars using CBERS-4, CBERS-4A, and Amazonia-1 satellite imagery combined with Deep Learning and cloud processing.","url":"https://itsmorais.github.io/projects/dfiretrack","image":"itsmorais.github.io/"},{"@type":"CreativeWork","headline":"D-Nutri Fitness Tracker","description":"Allows users to record and monitor their daily intake of calories and nutrients, helping them control their diet and maintain their health.","url":"https://itsmorais.github.io/projects/dnutri","image":"itsmorais.github.io/"},{"@type":"CreativeWork","headline":"D-TRACKER","description":"An exclusive management system for mapping projects that centralizes and optimizes the work of editors and reviewers in the geoprocessing sector.","url":"https://itsmorais.github.io/projects/dtracker","image":"itsmorais.github.io/"}]}b:Ta54,
+9:T76e,{"@context":"https://schema.org","@type":"CollectionPage","headline":"My Projects","description":"Some of the things I’ve built — all focused on solving real problems with thoughtful, high-quality code.","url":"https://itsmorais.github.io/projects","image":"itsmorais.github.io/og?title=Design%20Projects","author":{"@type":"Person","name":"Michael Morais"},"hasPart":[{"@type":"CreativeWork","headline":"Bikes4you","description":"A peer-to-peer web application that connects bicycle owners with renters, acting solely as an intermediary without handling payments.","url":"https://itsmorais.github.io/projects/bike4you","image":"itsmorais.github.io/"},{"@type":"CreativeWork","headline":"D-Care","description":"A complete platform that connects elderly individuals and families to qualified caregivers, with professional validation, scheduling, AI-assisted support, and strong privacy standards.","url":"https://itsmorais.github.io/projects/dcare","image":"itsmorais.github.io/"},{"@type":"CreativeWork","headline":"D-FireTrack","description":"A complete solution for the automatic mapping of burn scars using CBERS-4, CBERS-4A, and Amazonia-1 satellite imagery combined with Deep Learning and cloud processing.","url":"https://itsmorais.github.io/projects/dfiretrack","image":"itsmorais.github.io/"},{"@type":"CreativeWork","headline":"D-Nutri Fitness Tracker","description":"Allows users to record and monitor their daily intake of calories and nutrients, helping them control their diet and maintain their health.","url":"https://itsmorais.github.io/projects/dnutri","image":"itsmorais.github.io/"},{"@type":"CreativeWork","headline":"D-TRACKER","description":"An exclusive management system for mapping projects that centralizes and optimizes the work of editors and reviewers in the geoprocessing sector.","url":"https://itsmorais.github.io/projects/dtracker","image":"itsmorais.github.io/"}]}b:Tf2e,
 ## Overview
 
 **D-Care** is a platform designed to connect elderly individuals and their families with qualified caregivers.  
@@ -43,6 +43,30 @@ The system aims to offer a reliable, transparent, and user-friendly experience�
 - **AI**: Specialized models for triage and caregiver/patient support  
 - **Agile**: SCRUM with sprints, planning, review, and continuous refinement  
 
+## My Contribution
+
+### 🧭 Product Ownership
+- Led the entire **requirements analysis** process and created all **user stories** and the **product backlog**.  
+- Guided the team in **prioritizing tasks** and defining delivery strategy.
+
+### 🛠️ Architecture & Engineering
+- Set up the **backend architecture** using **NestJS** and **Prisma**.  
+- Configured the **frontend architecture** with **React**, **shadcn/ui**, and the system design foundations.  
+- Built **CI/CD pipelines** (test, build, deploy) using **GitHub Actions**.  
+- Configured **Docker** to orchestrate backend, frontend, PostgreSQL, and the AI chatbot services.  
+- Set up an **AWS EC2** production server and integrated automated deployment through GitHub Actions.
+
+### 🚀 Delivery
+- Delivered key user stories such as **IVC20**, the **caregiver–patient matching logic**, and **elderly registration/editing**.  
+- Developed the **Caregiver Dashboard**, including:  
+  - monthly earnings metrics;  
+  - pending requests overview;  
+  - completed requests summary;  
+  - overall caregiver rating average.  
+- Developed **end-to-end and unit tests** using Jest and Supertest.  
+- Performed **PR reviews**, ensuring code quality and consistency across the team.
+
+
 ## Challenges and Learnings
 
 Key challenges included:
@@ -61,7 +85,7 @@ D-Care achieved 1st place as the best project of the final semester of the Multi
 
 ## GitHub Repository
 [D-Care](https://github.com/DevsDomain/D-care)
-c:Ta13,
+c:Te71,
 ## Overview
 
 **D-FireTrack** is an innovative platform that leverages satellite imagery and artificial intelligence to automatically detect and map burn scars across large regions. Using data from CBERS-4, CBERS-4A, and Amazônia-1 satellites, the system empowers researchers, environmental agencies, and policymakers to monitor fire scars and their long-term effects with greater precision and scalability.
@@ -86,6 +110,18 @@ The project integrates backend services, a modern frontend, and Deep Learning mo
 - **AI / Deep Learning**: Python for training and inference of burn scar detection models  
 - **Agile Methodology**: SCRUM for sprint-based delivery, GitHub Projects for Kanban & Burndown  
 
+## My Contribution
+
+### 🛠️ Backend (Node.js + Express)
+- Worked as the **sole backend developer**, responsible for designing and implementing the entire service architecture following the **MVC** pattern.  
+- Built the **geospatial search logic**, receiving latitude and longitude from the user and using these coordinates to query the **INPE API**, retrieving minified satellite images for the requested region.  
+- Developed the complete flow for **image selection, processing, and classification**:  
+  - receiving the selected images through an API route;  
+  - performing all preprocessing and file handling;  
+  - sending the processed data to the **Python ML classification service**;  
+  - implementing a **loading mechanism with percentage-based progress** while the Python model processed the images;  
+  - returning the final classified image to the user once processing was complete.  
+- Implemented a **MongoDB caching service**, storing classified PNG images linked to latitude, longitude, and request date—allowing instant retrieval when users requested the same area within the same date range.
 ## Challenges and Learnings
 
 The main challenge was to process large-scale geospatial data efficiently while maintaining accuracy in burn scar detection. The team learned to integrate Deep Learning models with cloud-optimized geospatial formats, optimize APIs for heavy image processing, and deliver a user-friendly frontend with real-time map visualization.
@@ -97,7 +133,7 @@ The project was recognized for its strong technical foundation, its effective in
 
 ## Github Repository
 [D-FireTrack](https://github.com/DevsDomain/D-FireTrack)
-d:T690,
+d:Tcb9,
 ## Overview
 
 D-Nutri is a fitness tracking application that helps users log and monitor their calorie intake, track macronutrient consumption, and maintain healthy eating habits.
@@ -117,6 +153,37 @@ D-Nutri is a fitness tracking application that helps users log and monitor their
 - **MongoDB**: For storing user profiles, food logs, and analytics.
 - **Express.js**: REST API framework for handling backend logic.
 
+## My Contribution
+
+### 🧭 Scrum Master
+- Facilitated all **SCRUM ceremonies** (planning, daily, review, retrospective).  
+- Organized the **workflow**, removed blockers, and ensured continuous delivery.  
+- Helped the team maintain a healthy development pace and clear prioritization.
+
+### 🛠️ Backend Development (Full Feature Implementation)
+As the primary backend developer, I implemented **all backend features of the project**, including:
+
+- **Meal Registration Service**:  
+  Built the complete flow for adding meals, calculating calories, macronutrients, vitamins, and storing structured nutritional data.
+
+- **Goal Tracking Logic**:  
+  Developed the system for defining daily intake goals and computing user progress with dynamic updates.
+
+- **Barcode Scanning Integration**:  
+  Created the API endpoints responsible for receiving scanned barcodes, querying the nutrition database, and returning standardized food data.
+
+- **Analytics & Data Visualization Backend**:  
+  Implemented aggregation pipelines and data processing to generate the interactive charts and nutritional insights used in the app.
+
+- **AI-Based Meal Recommendation Engine**:  
+  Built the service that processes user preferences and nutritional needs to return personalized meal suggestions.
+
+- **Database Architecture & Modeling**:  
+  Designed MongoDB collections for users, meals, goals, logs, and analytics.
+
+- **API Infrastructure (Node.js + Express)**:  
+  Developed all REST endpoints, middlewares, validation layers, and error-handling logic ensuring reliability and performance.
+
 ## Challenges and Learnings
 
 One of the major challenges was ensuring accurate nutritional calculations and integrating a vast food database while maintaining fast app performance. The team also refined user experience by simplifying food entry and improving recommendation algorithms.
@@ -126,7 +193,7 @@ One of the major challenges was ensuring accurate nutritional calculations and i
 D-Nutri has successfully helped users track their fitness goals, leading to improved dietary awareness. The app has received positive feedback for its ease of use, insightful analytics, and seamless tracking experience.
 
 ## Github Repository
-[Dnutri](https://github.com/DevsDomain/D-Nutri)e:T7e0,
+[Dnutri](https://github.com/DevsDomain/D-Nutri)e:Tb12,
 ## Overview
 
 D-TRACKER is an exclusive management tool for mapping projects, designed to help project managers oversee data provided by editors and reviewers. The system enables managers to define project areas, upload supporting data, register users, assign work areas, and extract statistics, improving the efficiency and quality of collaborative mapping tasks.
@@ -151,6 +218,25 @@ D-TRACKER is an exclusive management tool for mapping projects, designed to help
 - **SCRUM**: Agile project management methodology
 - **Project Tracking**: Trello or Jira for task management
 
+## My Contribution
+
+### 📝 User Stories (Frontend + Backend)
+Atuei diretamente na implementação completa de diversas **user stories**, cobrindo tanto lógica backend quanto integrações e telas no frontend, incluindo:
+
+- **Gestão de Usuários**:  
+  Criação de fluxos essenciais para cadastro, autenticação e gerenciamento básico de perfis.
+
+- **Dashboard e Estatísticas Iniciais**:  
+  Desenvolvimento de painéis com métricas básicas, conectando frontend ao backend para carregamento dinâmico dos dados.
+
+- **Fluxos de Navegação e UX**:  
+  Ajustes e melhorias nas telas, validações, feedbacks visuais e experiência geral de uso.
+
+- **Integração Geral com a API**:  
+  Criação de serviços frontend, tratamento de respostas, estados de loading e consistência dos dados entre as páginas.
+
+
+
 ## Challenges and Learnings
 
 The main challenge was structuring mapping data management and ensuring an efficient workflow between editors, reviewers, and managers. The team learned to apply advanced OOP concepts, design patterns, and software testing to build a robust and scalable system.
@@ -160,7 +246,7 @@ The main challenge was structuring mapping data management and ensuring an effic
 D-TRACKER ranked **1st place** in the competition among all classes of the DSM course at FATEC Jacareí. The system proved essential for collaborative mapping management, streamlining processes and centralizing data efficiently.
 
 ## Github Repository
-[Dtracker](https://github.com/DevsDomain/D-Traker)f:T78c,
+[Dtracker](https://github.com/DevsDomain/D-Traker)f:Tb3e,
 ## Overview
 
 Bikes4you is a peer-to-peer web application designed to connect bicycle owners with individuals interested in renting bicycles. The platform serves purely as an intermediary, facilitating the connection between parties while leaving payment management outside its scope.
@@ -185,6 +271,27 @@ Bikes4you is a peer-to-peer web application designed to connect bicycle owners w
 - **Material UI**: Pre-built UI components for consistency
 - **JWT**: Secure authentication mechanism
 
+## My Contribution
+
+### 🛠️ Backend
+
+- Implemented the complete **JWT authentication system**, including token generation, validation, and renewal.
+- Designed and structured the backend using the **MVC architecture**, ensuring scalability and clear separation of concerns.
+- Developed all **routes, controllers, and services**, covering authentication, user registration, bike listings, and rental operations.
+- Integrated the database using **TypeORM**, including migrations and entity relationships.
+- Implemented the **peer-to-peer rental contract logic**, defining clear rules between owners and renters.
+
+### 🗄️ Database
+
+- Created the **table scripts** (users, bikes, rentals, messages).
+- Prepared **mock data inserts** for testing and early-stage validation.
+
+### 💻 Frontend
+
+- Developed the core pages: **login**, **user registration**, and **bike registration/listing**.
+- Integrated all frontend pages with backend APIs.
+
+
 ## Challenges and Learnings
 
 One of the biggest challenges was ensuring a seamless user experience while maintaining security and data integrity. The team focused on optimizing database queries with TypeORM, securing authentication with JWT, and implementing a clean UI using Material UI and Styled Components.
@@ -204,4 +311,4 @@ Bikes4you successfully bridged the gap between bicycle owners and renters, creat
 14:I[2060,["665","static/chunks/f97e080b-82142bce571282c5.js","240","static/chunks/53c13509-59dce8ec7d519f72.js","516","static/chunks/f7333993-4a400b1b7e3f0714.js","575","static/chunks/575-36afa6b918503cc1.js","827","static/chunks/827-e9f729e5320d747e.js","187","static/chunks/187-6922ef9382e38734.js","303","static/chunks/303-bfb6db1152a109ea.js","540","static/chunks/app/%5Blocale%5D/work/page-facec01479b36cac.js"],"Text"]
 15:I[9316,["665","static/chunks/f97e080b-82142bce571282c5.js","240","static/chunks/53c13509-59dce8ec7d519f72.js","516","static/chunks/f7333993-4a400b1b7e3f0714.js","575","static/chunks/575-36afa6b918503cc1.js","827","static/chunks/827-e9f729e5320d747e.js","187","static/chunks/187-6922ef9382e38734.js","303","static/chunks/303-bfb6db1152a109ea.js","540","static/chunks/app/%5Blocale%5D/work/page-facec01479b36cac.js"],"Heading"]
 16:I[7868,["665","static/chunks/f97e080b-82142bce571282c5.js","240","static/chunks/53c13509-59dce8ec7d519f72.js","516","static/chunks/f7333993-4a400b1b7e3f0714.js","575","static/chunks/575-36afa6b918503cc1.js","827","static/chunks/827-e9f729e5320d747e.js","187","static/chunks/187-6922ef9382e38734.js","303","static/chunks/303-bfb6db1152a109ea.js","540","static/chunks/app/%5Blocale%5D/work/page-facec01479b36cac.js"],"IconButton"]
-6:["$","$L10",null,{"locale":"en","now":"$D2025-11-27T15:33:32.998Z","timeZone":"America/Sao_Paulo","messages":{"person":{"role":"Software Developer"},"newsletter":{"title":"Join my newsletter","description":"Every now and then, I share stories and insights about software development, tech trends, and what I'm learning along the way.","button":"Subscribe"},"home":{"label":"Home","title":"Michael Morais | Software Developer","description":"My personal site featuring projects, experience, and what I’ve been working on.","headline":"Michael Morais Portfolio","subline":"Hey! I'm a full stack developer at Embraer, focused on building clean, scalable, and impactful solutions."},"languages":{"english":"English","portuguese":"Portuguese","french":"French"},"about":{"label":"About","title":"About Me","description":"I'm Michael, a software developer based in São José dos Campos, Brazil.","intro":{"title":"Intro","description":"Hey there! I’m Michael — a software developer and a student of Multiplatform Software Development. Before getting into tech, I spent 5 years working in the aviation industry, where I built a strong foundation in critical thinking, teamwork, and problem-solving. I officially started my journey in software in 2023, and since then, I’ve been focused on building web solutions that are fast, scalable, and add real value to businesses. I’m always learning, always improving, and always looking for better ways to solve problems through code."},"work":{"title":"Work Experience","experiences":{"embraer":{"role":"Full Stack Developer","achievements":{"1":"Built a scheduling system for the aerospace division that was ranked among the top 10 intern projects across the company.","2":"Created ETL and data analysis tools that helped improve resource planning and decision-making.","3":"Led modernization efforts on internal systems to improve backend performance and user experience."}},"nexus":{"role":"Software Developer","achievements":{"1":"Migrated a legacy .NET system to Next.js, cutting file generation time from 2 minutes to just 1 second.","2":"Built a real-time data processing server using Node.js, RabbitMQ, and PostgreSQL for IoT devices.","3":"Developed a modern dashboard in React/Next.js to visualize and analyze IoT data."}}}},"studies":{"title":"Education","institutions":{"fatec":{"description":"I'm currently studying Multiplatform Software Development at FATEC Jacareí and expect to graduate in December 2025."},"utfpr":{"description":"I studied Systems Analysis and Development at UTFPR between 2021 and 2022."},"dublin":{"description":"I spent a year in Dublin, Ireland studying English and earned a B2 level certificate."}}},"technical":{"title":"Tech Skills","skills":{"node":{"description":"I build backend applications with Node.js and TypeScript, following clean architecture and best practices."},"react":{"description":"I design responsive and scalable user interfaces with React and Next.js, always focusing on performance and UX."},"postgresql":{"description":"I work with PostgreSQL and Prisma ORM to manage data reliably and efficiently in relational databases."}}}},"blog":{"label":"Blog","title":"Thoughts on dev, career, and tech","description":"Here’s what I’ve been thinking and writing about lately."},"work":{"label":"Projects","title":"My Projects","description":"Some of the things I’ve built — all focused on solving real problems with thoughtful, high-quality code."},"projectCard":{"label":"Read more"},"gallery":{"label":"Gallery","title":"Photo Gallery","description":"A collection of snapshots from moments that inspire me — on and off the screen."}},"children":["$","$L8",null,{"as":"html","lang":"en","background":"page","data-neutral":"gray","data-brand":"emerald","data-accent":"indigo","data-solid":"contrast","data-solid-style":"flat","data-theme":"dark","data-border":"playful","data-surface":"translucent","data-transition":"all","className":"__variable_3587c5 __variable_81a259","children":["$","$L8",null,{"style":{"minHeight":"100vh"},"as":"body","fillWidth":true,"margin":"0","padding":"0","direction":"column","children":[["$","$L11",null,{"mask":"cursor","gradient":{"display":true,"opacity":0.4},"dots":{"display":true,"opacity":0.4,"size":"24"},"lines":{"display":false}}],["$","$L8",null,{"fillWidth":true,"minHeight":"16"}],["$","$L12",null,{}],["$","$L8",null,{"zIndex":0,"fillWidth":true,"paddingY":"l","paddingX":"l","justifyContent":"center","flex":1,"children":["$","$L8",null,{"justifyContent":"center","fillWidth":true,"minHeight":"0","children":["$","$L13",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L8",null,{"as":"section","direction":"column","alignItems":"center","children":[["$","$L14",null,{"marginBottom":"s","variant":"display-strong-xl","children":"404"}],["$","$L15",null,{"marginBottom":"l","variant":"display-strong-xs","children":"Page Not Found"}],["$","$L14",null,{"onBackground":"neutral-weak","children":"The page you are looking for does not exist."}]]}],"notFoundStyles":[]}]}]}]}],["$","$L8",null,{"as":"footer","position":"relative","fillWidth":true,"padding":"8","justifyContent":"center","mobileDirection":"column","children":[["$","$L8",null,{"className":"Footer_mobile__TYNqJ","fillWidth":true,"maxWidth":"m","paddingY":"8","paddingX":"16","gap":"16","justifyContent":"space-between","alignItems":"center","children":[["$","$L14",null,{"variant":"body-default-s","onBackground":"neutral-strong","children":[["$","$L14",null,{"onBackground":"neutral-weak","children":["© ",2025," /"]}],["$","$L14",null,{"paddingX":"4","children":"Michael Morais"}]]}],["$","$L8",null,{"gap":"16","children":[["$","$L16","GitHub",{"href":"https://github.com/itsmorais","icon":"github","tooltip":"GitHub","size":"s","variant":"ghost"}],["$","$L16","LinkedIn",{"href":"https://www.linkedin.com/in/michael-morais22/","icon":"linkedin","tooltip":"LinkedIn","size":"s","variant":"ghost"}],"",["$","$L16","Email",{"href":"mailto:michael.morais@fatec.sp.gov.br","icon":"email","tooltip":"Email","size":"s","variant":"ghost"}]]}]]}],["$","$L8",null,{"height":"80","show":"s"}]]}]]}]}]}]
+6:["$","$L10",null,{"locale":"en","now":"$D2025-12-04T13:46:00.422Z","timeZone":"America/Sao_Paulo","messages":{"person":{"role":"Software Developer"},"newsletter":{"title":"Join my newsletter","description":"Every now and then, I share stories and insights about software development, tech trends, and what I'm learning along the way.","button":"Subscribe"},"home":{"label":"Home","title":"Michael Morais | Software Developer","description":"My personal site featuring projects, experience, and what I’ve been working on.","headline":"Michael Morais Portfolio","subline":"Hey! I'm a full stack developer at Embraer, focused on building clean, scalable, and impactful solutions."},"languages":{"english":"English","portuguese":"Portuguese","french":"French"},"about":{"label":"About","title":"About Me","description":"I'm Michael, a software developer based in São José dos Campos, Brazil.","intro":{"title":"Intro","description":"Hey there! I’m Michael — a software developer and a student of Multiplatform Software Development. Before getting into tech, I spent 5 years working in the aviation industry, where I built a strong foundation in critical thinking, teamwork, and problem-solving. I officially started my journey in software in 2023, and since then, I’ve been focused on building web solutions that are fast, scalable, and add real value to businesses. I’m always learning, always improving, and always looking for better ways to solve problems through code."},"work":{"title":"Work Experience","experiences":{"embraer":{"role":"Full Stack Developer","achievements":{"1":"Built a scheduling system for the aerospace division that was ranked among the top 10 intern projects across the company.","2":"Created ETL and data analysis tools that helped improve resource planning and decision-making.","3":"Led modernization efforts on internal systems to improve backend performance and user experience."}},"nexus":{"role":"Software Developer","achievements":{"1":"Migrated a legacy .NET system to Next.js, cutting file generation time from 2 minutes to just 1 second.","2":"Built a real-time data processing server using Node.js, RabbitMQ, and PostgreSQL for IoT devices.","3":"Developed a modern dashboard in React/Next.js to visualize and analyze IoT data."}}}},"studies":{"title":"Education","institutions":{"fatec":{"description":"I'm currently studying Multiplatform Software Development at FATEC Jacareí and expect to graduate in December 2025."},"utfpr":{"description":"I studied Systems Analysis and Development at UTFPR between 2021 and 2022."},"dublin":{"description":"I spent a year in Dublin, Ireland studying English and earned a B2 level certificate."}}},"technical":{"title":"Tech Skills","skills":{"node":{"description":"I build backend applications with Node.js and TypeScript, following clean architecture and best practices."},"react":{"description":"I design responsive and scalable user interfaces with React and Next.js, always focusing on performance and UX."},"postgresql":{"description":"I work with PostgreSQL and Prisma ORM to manage data reliably and efficiently in relational databases."}}}},"blog":{"label":"Blog","title":"Thoughts on dev, career, and tech","description":"Here’s what I’ve been thinking and writing about lately."},"work":{"label":"Projects","title":"My Projects","description":"Some of the things I’ve built — all focused on solving real problems with thoughtful, high-quality code."},"projectCard":{"label":"Read more"},"gallery":{"label":"Gallery","title":"Photo Gallery","description":"A collection of snapshots from moments that inspire me — on and off the screen."}},"children":["$","$L8",null,{"as":"html","lang":"en","background":"page","data-neutral":"gray","data-brand":"emerald","data-accent":"indigo","data-solid":"contrast","data-solid-style":"flat","data-theme":"dark","data-border":"playful","data-surface":"translucent","data-transition":"all","className":"__variable_3587c5 __variable_81a259","children":["$","$L8",null,{"style":{"minHeight":"100vh"},"as":"body","fillWidth":true,"margin":"0","padding":"0","direction":"column","children":[["$","$L11",null,{"mask":"cursor","gradient":{"display":true,"opacity":0.4},"dots":{"display":true,"opacity":0.4,"size":"24"},"lines":{"display":false}}],["$","$L8",null,{"fillWidth":true,"minHeight":"16"}],["$","$L12",null,{}],["$","$L8",null,{"zIndex":0,"fillWidth":true,"paddingY":"l","paddingX":"l","justifyContent":"center","flex":1,"children":["$","$L8",null,{"justifyContent":"center","fillWidth":true,"minHeight":"0","children":["$","$L13",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L8",null,{"as":"section","direction":"column","alignItems":"center","children":[["$","$L14",null,{"marginBottom":"s","variant":"display-strong-xl","children":"404"}],["$","$L15",null,{"marginBottom":"l","variant":"display-strong-xs","children":"Page Not Found"}],["$","$L14",null,{"onBackground":"neutral-weak","children":"The page you are looking for does not exist."}]]}],"notFoundStyles":[]}]}]}]}],["$","$L8",null,{"as":"footer","position":"relative","fillWidth":true,"padding":"8","justifyContent":"center","mobileDirection":"column","children":[["$","$L8",null,{"className":"Footer_mobile__TYNqJ","fillWidth":true,"maxWidth":"m","paddingY":"8","paddingX":"16","gap":"16","justifyContent":"space-between","alignItems":"center","children":[["$","$L14",null,{"variant":"body-default-s","onBackground":"neutral-strong","children":[["$","$L14",null,{"onBackground":"neutral-weak","children":["© ",2025," /"]}],["$","$L14",null,{"paddingX":"4","children":"Michael Morais"}]]}],["$","$L8",null,{"gap":"16","children":[["$","$L16","GitHub",{"href":"https://github.com/itsmorais","icon":"github","tooltip":"GitHub","size":"s","variant":"ghost"}],["$","$L16","LinkedIn",{"href":"https://www.linkedin.com/in/michael-morais22/","icon":"linkedin","tooltip":"LinkedIn","size":"s","variant":"ghost"}],"",["$","$L16","Email",{"href":"mailto:michael.morais@fatec.sp.gov.br","icon":"email","tooltip":"Email","size":"s","variant":"ghost"}]]}]]}],["$","$L8",null,{"height":"80","show":"s"}]]}]]}]}]}]
